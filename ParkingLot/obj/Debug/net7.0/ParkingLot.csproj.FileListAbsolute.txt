@@ -1,0 +1,15 @@
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/bin/Debug/net7.0/ParkingLot
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/bin/Debug/net7.0/ParkingLot.deps.json
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/bin/Debug/net7.0/ParkingLot.runtimeconfig.json
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/bin/Debug/net7.0/ParkingLot.dll
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/bin/Debug/net7.0/ParkingLot.pdb
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.csproj.AssemblyReference.cache
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.AssemblyInfoInputs.cache
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.AssemblyInfo.cs
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.csproj.CoreCompileInputs.cache
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.dll
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/refint/ParkingLot.dll
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.pdb
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ParkingLot.genruntimeconfig.cache
+/home/user/Documents/tes/ntt/ParkingLot/ParkingLot/ParkingLot/obj/Debug/net7.0/ref/ParkingLot.dll
